@@ -1,13 +1,14 @@
-- 👋 Hi, I’m @wyrtwala
-- 👀 I’m interested in ...
-    Cyber Warfare,
-    Cryptography,
-    Eventually being completely mouseless
-- 🌱 I’m currently learning ...
+- Hi, I’m @wyrtwala  
+- I’m interested in:  
+    Cyber Warfare,  
+    Cryptography,  
+    AST's and everything parsing  
+- I’m currently learning:  
     Rust
-- 💞️ I’m looking to collaborate on ... 
+    Bash
+- I’m looking to collaborate on:  
      convince me ...
-- 📫 How to reach me ...
+- How to reach me ...
       joseph.fruin@protonmail.com
 <!---
 wyrtwala/wyrtwala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
