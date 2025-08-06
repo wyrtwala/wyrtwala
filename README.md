@@ -1,16 +1,8 @@
-- Hi, I’m @wyrtwala  
-- I’m interested in:  
-    Cyber Warfare,  
-    Cryptography,  
-    AST's and everything parsing  
-- I’m currently learning:  
-    Rust
-    Bash
-- I’m looking to collaborate on:  
-     convince me ...
-- How to reach me ...
-      joseph.fruin@protonmail.com
-<!---
-wyrtwala/wyrtwala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am wyrtwala, 
+Servant of the Hidden Fire    
+Weilder of C.  
+The Cyber Mage, the Chasm Guardian  
+and bearer of the ring of crafting
+  
+    
+I live at joseph.fruin@protonmail.com
